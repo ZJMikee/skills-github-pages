@@ -1,5 +1,5 @@
 ---
-title: Stars
+title: Space
 ---
 ---
-Stars are massive celestial objects composed primarily of hydrogen and helium that produce energy through nuclear fusion in their cores. This fusion process powers stars, creating heat and light that radiate into space.
+Space, also known as outer space, is the vast expanse beyond Earth's atmosphere that stretches across the universe. It is an almost perfect vacuum, meaning it has very little matter and no atmosphere to carry sound.
